@@ -28,11 +28,11 @@ Also make some light content mods
 ## ✋🏻Ask for help？
 * **Contact us!** <br>
 Organization leader「Yu Bell」<br>
-   personal QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
-   personal Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
+&emsp;personal QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
+&emsp;personal Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
 Player communication and feedback<br>
-   QQ chat group[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
-   Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
+&emsp;QQ chat group[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
+&emsp;Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
 Our work chat group[939011112](https://qm.qq.com/q/hFlTAvXdIe)
 
 * **How to be a Localizer？** <br>
@@ -40,8 +40,8 @@ Check our guide！(only support Chinese):[Terraria Mod Localize Guide](https://d
 
 * **How to fix hardcoded ？** <br>
   We fix this problem by using 「TerrariaTigerForceLocalizationLib」<br>
-  Lib's GitHub Link[TerrariaTigerForceLocalizationLib](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib)<br>
-  Example Mod's GitHub Link[TerrariaTigerForceLocalizationExample](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationExample)<br>
-  Workshop Link[Tiger's Force Localization Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=3358131784)<br>
-  Example Mod Link[Tiger's Force Localization Example](https://steamcommunity.com/sharedfiles/filedetails/?id=3358134129)<br>
+&emsp;Lib's GitHub Link[TerrariaTigerForceLocalizationLib](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib)<br>
+&emsp;Example Mod's GitHub Link[TerrariaTigerForceLocalizationExample](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationExample)<br>
+&emsp;Workshop Link[Tiger's Force Localization Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=3358131784)<br>
+&emsp;Example Mod Link[Tiger's Force Localization Example](https://steamcommunity.com/sharedfiles/filedetails/?id=3358134129)<br>
   $\color{#B89E14}{Thanks}$ $\color{#B89E14}{Tigerzzz}$
