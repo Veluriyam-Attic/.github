@@ -7,7 +7,7 @@ English | [简体中文](README.md)
 </div>
 
 ## 💬Description
-Veluriyam Attic is an organization dedicated to do Chinese Localization for mods from tModLoader's Workshop
+Veluriyam Attic is an organization dedicated to do Chinese Localization for mods from tModLoader's Workshop<br>
 Also make some light content mods
 
 ## 💫Published
