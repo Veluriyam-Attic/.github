@@ -1,5 +1,11 @@
 <h1 align="center">🔔玲珑汉化组（Veluriyam Attic）</h1>
 
+<div align="center">
+
+[English](profile/README-en.md) | 简体中文
+
+</div>
+
 ## 💬介绍
 玲珑汉化组（Veluriyam Attic）是一个致力于对tModLoader创意工坊上的Mod进行中文本地化的团队
 同时还进行小部分的内容Mod制作
