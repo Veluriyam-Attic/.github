@@ -28,11 +28,11 @@
 ## ✋🏻寻求帮助？
 * **联系我们!** <br>
 汉化组长「虞悖」<br>
-   个人QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
-   个人Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
+&emsp;个人QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
+&emsp;个人Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
 玩家交流反馈<br>
-   QQ群[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
-   Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
+&emsp;QQ群[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
+&emsp;Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
 玲珑汉化组工作群[939011112](https://qm.qq.com/q/hFlTAvXdIe)
 
 * **个人汉化者如何快速入门？** <br>
@@ -40,8 +40,8 @@
 
 * **硬编码解决问题？** <br>
   我们硬编码统一使用最简单的办法来解决——TerrariaTigerForceLocalizationLib<br>
-  Lib开源链接[TerrariaTigerForceLocalizationLib](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib)<br>
-  示例开源链接[TerrariaTigerForceLocalizationExample](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationExample)<br>
-  创意工坊链接[Tiger's Force Localization Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=3358131784)<br>
-  示例Mod链接[Tiger's Force Localization Example](https://steamcommunity.com/sharedfiles/filedetails/?id=3358134129)<br>
+  &emsp;Lib开源链接[TerrariaTigerForceLocalizationLib](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib)<br>
+  &emsp;示例开源链接[TerrariaTigerForceLocalizationExample](https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationExample)<br>
+  &emsp;创意工坊链接[Tiger's Force Localization Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=3358131784)<br>
+  &emsp;示例Mod链接[Tiger's Force Localization Example](https://steamcommunity.com/sharedfiles/filedetails/?id=3358134129)<br>
   $\color{#B89E14}{感谢Tigerzzz对于硬编码工具的付出}$
