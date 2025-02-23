@@ -27,8 +27,12 @@
 
 ## ✋🏻寻求帮助？
 * **联系我们!** <br>
-汉化组长「虞悖」的个人QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
-玩家交流反馈群[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
+汉化组长「虞悖」<br>
+   个人QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
+   个人Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
+玩家交流反馈<br>
+   QQ群[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
+   Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
 玲珑汉化组工作群[939011112](https://qm.qq.com/q/hFlTAvXdIe)
 
 * **个人汉化者如何快速入门？** <br>
