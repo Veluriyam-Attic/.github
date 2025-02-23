@@ -7,7 +7,7 @@
 </div>
 
 ## 💬介绍
-玲珑汉化组（Veluriyam Attic）是一个致力于对tModLoader创意工坊上的Mod进行中文本地化的团队
+玲珑汉化组（Veluriyam Attic）是一个致力于对tModLoader创意工坊上的Mod进行中文本地化的团队<br>
 同时还进行小部分的内容Mod制作
 
 ## 💫发布速览
