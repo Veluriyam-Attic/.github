@@ -19,7 +19,7 @@ Also makes some light content mods
 * **Fargo:Legacy** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3417142456)
 
 ## ☑️Suggestion
-* **You can write down your suggestion here**[Suggestion](https://github.com/Veluriyam-Attic/Suggestion/issues)
+* **You can write down your suggestion here** [Suggestion](https://github.com/Veluriyam-Attic/Suggestion/issues)
 
 ## 📖Plan
 * **Traditional Chinese and Simplified Chinese change**
@@ -30,13 +30,13 @@ Also makes some light content mods
 Organization leader「Yu Bell」<br>
 &emsp;personal QQ[3412615165](https://qm.qq.com/q/P8NaIwQQyk)<br>
 &emsp;personal Discord [zlzhaidou_](https://discord.gg/UVXKuvgX)<br>
-Player communication and feedback<br>
+Player chat and feedback<br>
 &emsp;QQ chat group[909428503](https://qm.qq.com/q/liASO1pPfa)<br>
 &emsp;Discord[Yu's Home](https://discord.gg/pftrwVZy5N)<br>
 Our work chat group[939011112](https://qm.qq.com/q/hFlTAvXdIe)
 
 * **How to be a Localizer？** <br>
-Check our guide！(only support Chinese):[Terraria Mod Localize Guide](https://docs.qq.com/doc/DUFlYVXd1R1RYZUVj)
+Check our guide！(only support Chinese):[Terraria Mod Localizer's Guide](https://docs.qq.com/doc/DUFlYVXd1R1RYZUVj)
 
 * **How to fix hardcoded ？** <br>
   We fix this problem by using 「TerrariaTigerForceLocalizationLib」<br>
