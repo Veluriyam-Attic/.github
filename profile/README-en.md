@@ -7,16 +7,16 @@ English | [简体中文](README.md)
 </div>
 
 ## 💬Description
-Veluriyam Attic is an organization dedicated to do Chinese Localization for mods from tModLoader's Workshop<br>
-Also make some light content mods
+Veluriyam Attic is an organization dedicated to making Chinese Localization for Terraria mods<br>
+Also makes some light content mods
 
 ## 💫Published
-* **Lunar Veil:Legacy** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3299543098)
-* **Class Plus Mod** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3337028069)
-* **Some Fargo's Mod** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3355517847)
-* **Macrocosm** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3361892869)
-* **Useful NPCs & Helpful NPCs** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3412554590)
-* **Fargo:Legacy** [Click Me!](https://steamcommunity.com/sharedfiles/filedetails/?id=3417142456)
+* **Lunar Veil:Legacy** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3299543098)
+* **Class Plus Mod** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3337028069)
+* **Some Fargo's Mod** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3355517847)
+* **Macrocosm** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3361892869)
+* **Useful NPCs & Helpful NPCs** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3412554590)
+* **Fargo:Legacy** [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3417142456)
 
 ## ☑️Suggestion
 * **You can write down your suggestion here**[Suggestion](https://github.com/Veluriyam-Attic/Suggestion/issues)
